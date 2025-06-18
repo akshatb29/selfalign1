@@ -46,3 +46,15 @@ Thumbs.db
 *.tmp
 *.bak
 *.swp
+
+myenv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.DS_Store
+Thumbs.db
+
