@@ -1,0 +1,7 @@
+pyautogen
+python-dotenv
+duckduckgo-search
+numpy>=1.21.0
+concurrent.futures  # Usually built-in
+dataclasses  # Built-in for Python 3.7+
+hashlib  # Built-in
